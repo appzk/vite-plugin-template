@@ -13,10 +13,10 @@
   },
   "author": "markthree",
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.3.1",
-    "vite": "^2.9.5",
-    "vite-plugin-inspect": "^0.3.15",
-    "vite-plugin-name": "workspace:*",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "link:../../node_modules/vite",
+    "vite-plugin-httpclient": "link:../../",
+    "vite-plugin-inspect": "^0.7.28",
     "vue": "^3.2.33"
   }
 }

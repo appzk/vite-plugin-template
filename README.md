@@ -1,6 +1,6 @@
-# vite-plugin-template
+# vite-plugin-vite-plugin-httpclient
 
-开箱即用的 vite 插件模板
+集成httpclient axios auth yapi
 
 <br />
 
@@ -90,7 +90,7 @@ pnpm release
 
 ## License
 
-Made with name
+Made with [fugangb](https://github.com/fugangb)
 
 Published under [MIT License](./LICENSE).
 
